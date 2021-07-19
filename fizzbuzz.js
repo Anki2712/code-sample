@@ -1,3 +1,6 @@
+/*Below fizzBuzz problem will check for first if it is 
+divisible by 3 and 5, secondly it check for divisible by 3, 
+third if it divisibe by 5 otherwise it will print the number*/
 function fizzBuzz(){
     let i=1;
     while(i<20){
